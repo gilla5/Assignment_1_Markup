@@ -12,7 +12,7 @@
 ---
 
 ### Summary
-A brief summary highlighting your professional background, key skills, and career goals.
+I am still in college working to get a degree in Software Engineering. I love my major so far and Im hoping to someday be a software developer. My Goal is to have a job lined up right out of college. One of my long term goals is to work for microsoft/Google one day.
 
 ---
 
@@ -45,20 +45,19 @@ A brief summary highlighting your professional background, key skills, and caree
 
 ---
 
-### Certifications
-- [Certification Name], Issued by [Issuing Organization] - [Date]
-- Another relevant certification with details.
+### N/A
+- N/A
 
 ---
 
 ### Projects
-#### [Project Title]
-- A brief description of the project.
-- Technologies used and your role in the project.
+#### [Team Website]
+- We created a website thats main purpose was to donate to charity organizatiions that would come to our website and post there fundraiser and any organization could do so. It gave a description of the charity organizations and their goal. 
+- We used php, json, and csv to create this project and my role was creating the sign in, sign up, and sign out pages as well as the authorization that comes with that.
 
-#### [Another Project Title]
-- Description of this project.
-- Highlight any unique challenges or successes.
+#### [Blog]
+- We created a blog where there were some Artciles in a website that you could click on and go to.
+- I Was able to learn how to create a link that would lead me to a different page
 
 ---
 
