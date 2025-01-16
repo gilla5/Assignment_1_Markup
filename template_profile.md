@@ -1,6 +1,7 @@
 # [Your Name]
 ## [Your Profession]
 
+![Your picture](https://github.com/NicholasCaporusso/NKU-ASE220-assignments-01/blob/main/students/demo_bill_gates.jpg)
 ---
 
 ### Contact
