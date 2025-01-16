@@ -1,13 +1,13 @@
-# [Your Name]
-## [Your Profession]
+# [Aiden Gill]
+## [College Student]
 
 ---
 
 ### Contact
-- **Email:** [Your NKU Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Website:** [Your Personal Website]
+- **Email:** [gilla5@mymail.nku.edu]
+- **LinkedIn:** [Aiden Gill]
+- **GitHub:** [gilla5]
+- **Website:** [Aiden Gill]
 
 ---
 
@@ -18,30 +18,30 @@ A brief summary highlighting your professional background, key skills, and caree
 
 ### Experience
 
-#### [Job Title] - [Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Bullet point detailing a key responsibility or achievement.
-- Another bullet point with a different responsibility or accomplishment.
+#### [Restaurant Team Member] - [Chick fi la]
+*_[April 2024] - [Current] | [Fort Wright, KY]_*
+- Bag food, take orders, hand out food, make shakes, make drinks, clean, and stock
+- Grew as a person with this job and I still am
 
-#### [Previous Job Title] - [Previous Company Name]
-*_[Start Date] - [End Date] | [Location]_*
-- Description of your role and responsibilities.
-- Significant achievements or projects you contributed to.
+#### [Security] - [Andy Frain]
+*_[August 2023] - [December 2023] | [Erlanger, Ky]_*
+- Check bags, wand people, check in cars/trucks, sign in pilots
+- N/A
 
 ---
 
 ### Education
 
-#### [Degree], [Major] - [University Name]
-*_[Graduation Date]_*
-- Any relevant coursework or academic achievements.
-- Extracurricular activities or clubs you were part of.
+#### [Bachelor's], [Applied Software Engineering] - [Northern Kentucky University]
+*_[Fall 2027]_*
+- Im involved in a campus ministry called Navigators
+- Taking many coding classes that involve big projects
 
 ---
 
 ### Skills
-- **Technical Skills:** List your technical skills like programming languages, software, tools, etc.
-- **Soft Skills:** Communication, teamwork, problem-solving, etc.
+- Javascript, css, php, java, bootstrap, sql, csv, json, html
+- Communication, Leadership, time management
 
 ---
 
@@ -63,7 +63,7 @@ A brief summary highlighting your professional background, key skills, and caree
 ---
 
 ### Languages
-- **[Language Name]:** Proficiency level (e.g., Native, Fluent, Professional working proficiency)
+- **[English]:** Very fluent and the only language I know
 
 ---
 
